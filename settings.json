@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "PEDAL",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "Chujwdupetuskowi2.aternos.me",
+    "port": 16485,
     "version": "",
     "try-creative": false
   },
